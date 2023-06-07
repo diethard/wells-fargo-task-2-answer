@@ -1,2 +1,2 @@
-# wells-fargo-task-2-answer
-Answer for task 2 of the Wells Fargo Software Development Forage program
+# Task 2 Model Answer
+Model answer for task 2 of the Wells Fargo Software Development Forage program
